@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Api Volley</string>
+    <string name="tv_title">Listado de Posts (API JSONPlaceholder)</string>
+</resources>
